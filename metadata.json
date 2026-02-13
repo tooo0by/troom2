@@ -1,7 +1,7 @@
 {
   "gallery_title": "TRoom2",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-02-13 12:53:53",
+  "last_updated": "2026-02-13 13:12:51",
   "images": [
     {
       "file_hash": "f31e90f3",
@@ -983,5 +983,5 @@
     "Landscape",
     "Group Photo"
   ],
-  "base_url": "https://github.com/tooo0by/VRC_TRooms_Photo.git"
+  "base_url": "https://tooo0by.github.io/troom2"
 }
